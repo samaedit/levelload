@@ -3,17 +3,30 @@
     {
       "id": 1,
       "name": "Example 1",
-      "playStoreID": "black.mafia.ironboy.stickman.rope.heros",
+      "playStoreID": "de.redcrown.example1",
       "appStoreID": "1111",
       "price": "FREE",
       "images": [
         {
-          "url": "https://raw.githubusercontent.com/ad-tes/test/master/unnamed.png",
+          "url": "https://raw.githubusercontent.com/ad-tes/test/master/unnamed.png"",
           "frameColor": "#f44242"
         },
         {
-          "url": "https://drive.google.com/uc?export=download&id=17yujfPsHdt38HpwWQ8LVoOqqjtPa5Ay7",
+          "url": "https://raw.githubusercontent.com/ad-tes/test/master/unnamed.png"",
           "frameColor": "#41f456"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "de.redcrown.example2",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/ad-tes/test/master/unnamed.png"",
+          "frameColor": "#5841f4"
         }
       ]
     }
