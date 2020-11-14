@@ -1,1 +1,34 @@
- Read//
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Example 1",
+      "playStoreID": "com.flame.hero.vegas.crime.gan",
+      "appStoreID": "1111",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/dRmXjOQafAh37HMuNH-GA0tUDdZhRwZp7ZW7aEn_3oCDedgbDKLNreq3eaEPJPNzAUpX=w600-h700",
+          "frameColor": "#f44242"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/dRmXjOQafAh37HMuNH-GA0tUDdZhRwZp7ZW7aEn_3oCDedgbDKLNreq3eaEPJPNzAUpX=w600-h700",
+          "frameColor": "#41f456"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "rom.machin.robot.machin.supercar",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://play-lh.googleusercontent.com/_fI5TjhwdV9FHkCKPSwnJRuSl-rWYYA5mTVIbid4Qx70Q2g7nFj-ihz1_AW0rzAVe-g=w700-h1582",
+          "frameColor": "#5841f4"
+        }
+      ]
+    }
+  ]
+}
