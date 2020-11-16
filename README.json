@@ -3,16 +3,16 @@
     {
       "id": 1,
       "name": "Example 1",
-      "playStoreID": "com.flame.hero.vegas.crime.gan",
+      "playStoreID": "math.teacher.rope.hero.stickman.rope.hero",
       "appStoreID": "1111",
       "price": "FREE",
       "images": [
         {
-          "url": "https://play-lh.googleusercontent.com/dRmXjOQafAh37HMuNH-GA0tUDdZhRwZp7ZW7aEn_3oCDedgbDKLNreq3eaEPJPNzAUpX=w600-h700",
+          "url": "https://lh3.googleusercontent.com/hMCisxDwhejGC1MoFe2eC0ymDXsBME1HyRDeY99nqxWLt7rgdBhXRY7448DMTjD-v-2XjiFGABveKFI4l2Sx7aM=h500",
           "frameColor": "#f44242"
         },
         {
-          "url": "https://play-lh.googleusercontent.com/dRmXjOQafAh37HMuNH-GA0tUDdZhRwZp7ZW7aEn_3oCDedgbDKLNreq3eaEPJPNzAUpX=w600-h700",
+          "url": "https://lh3.googleusercontent.com/hMCisxDwhejGC1MoFe2eC0ymDXsBME1HyRDeY99nqxWLt7rgdBhXRY7448DMTjD-v-2XjiFGABveKFI4l2Sx7aM=h500",
           "frameColor": "#41f456"
         }
       ]
@@ -20,12 +20,12 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "com.flame.hero.vegas.crime.gan",
+      "playStoreID": "math.teacher.rope.hero.stickman.rope.hero",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
         {
-          "url": "https://play-lh.googleusercontent.com/dRmXjOQafAh37HMuNH-GA0tUDdZhRwZp7ZW7aEn_3oCDedgbDKLNreq3eaEPJPNzAUpX=w600-h700",
+          "url": "https://lh3.googleusercontent.com/hMCisxDwhejGC1MoFe2eC0ymDXsBME1HyRDeY99nqxWLt7rgdBhXRY7448DMTjD-v-2XjiFGABveKFI4l2Sx7aM=h500",
           "frameColor": "#5841f4"
         }
       ]
