@@ -3,16 +3,16 @@
     {
       "id": 1,
       "name": "Example 1",
-      "playStoreID": "math.teacher.rope.hero.stickman.rope.hero",
+      "playStoreID": "spiderstickman.ropeheros",
       "appStoreID": "1111",
       "price": "FREE",
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/hMCisxDwhejGC1MoFe2eC0ymDXsBME1HyRDeY99nqxWLt7rgdBhXRY7448DMTjD-v-2XjiFGABveKFI4l2Sx7aM=h500",
+          "url": "https://play-lh.googleusercontent.com/GBijPuTpbaq-q79oAiSBbIgL5gKB7NzmGfg87HqrTqZJ8A3_oj_zGdVsqQ2JUQJqNA=w600-h500",
           "frameColor": "#f44242"
         },
         {
-          "url": "https://lh3.googleusercontent.com/hMCisxDwhejGC1MoFe2eC0ymDXsBME1HyRDeY99nqxWLt7rgdBhXRY7448DMTjD-v-2XjiFGABveKFI4l2Sx7aM=h500",
+          "url": "https://play-lh.googleusercontent.com/GBijPuTpbaq-q79oAiSBbIgL5gKB7NzmGfg87HqrTqZJ8A3_oj_zGdVsqQ2JUQJqNA=w600-h500",
           "frameColor": "#41f456"
         }
       ]
@@ -20,12 +20,12 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "math.teacher.rope.hero.stickman.rope.hero",
+      "playStoreID": "spiderstickman.ropeheros",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/hMCisxDwhejGC1MoFe2eC0ymDXsBME1HyRDeY99nqxWLt7rgdBhXRY7448DMTjD-v-2XjiFGABveKFI4l2Sx7aM=h500",
+          "url": "https://play-lh.googleusercontent.com/GBijPuTpbaq-q79oAiSBbIgL5gKB7NzmGfg87HqrTqZJ8A3_oj_zGdVsqQ2JUQJqNA=w600-h500",
           "frameColor": "#5841f4"
         }
       ]
