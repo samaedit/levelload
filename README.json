@@ -4,7 +4,7 @@
     {
       "id": 1,
       "name": "Example 1",
-      "playStoreID": "vampire.rope.hero.gangster.Crime",
+      "playStoreID": "flying.dragon.robot.tarnsform.vice.Town",
       "appStoreID": "1111",
       "price": "FREE",
       "images": [
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "vampire.rope.hero.gangster.Crime",
+      "playStoreID": "flying.dragon.robot.tarnsform.vice.Town",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
