@@ -4,16 +4,16 @@
     {
       "id": 1,
       "name": "Example 1",
-      "playStoreID": "com.amazing.horrer.clone.gangster.crime",
+      "playStoreID": "com.robot.game.crocodile.robot.simulator",
       "appStoreID": "1111",
       "price": "FREE",
       "images": [
         {
-          "url": "https://play-lh.googleusercontent.com/qFykAq2-V9x2liPaBX3-WwQ7lNs5-ZHjFql50dWdMfx4E98YsFtX3cmIbZgeHW1w6nw=w640-h620",
+          "url": "https://play-lh.googleusercontent.com/gp4CzAe6LGhFr3pgF0yNYLI5Man4pr7V9m_SaiHBYswfF9u0MqWr9LFfYzd6arMssWc=w824-h440-rw",
           "frameColor": "#f44242"
         },
         {
-          "url": "https://play-lh.googleusercontent.com/qFykAq2-V9x2liPaBX3-WwQ7lNs5-ZHjFql50dWdMfx4E98YsFtX3cmIbZgeHW1w6nw=w640-h620",
+          "url": "https://play-lh.googleusercontent.com/gp4CzAe6LGhFr3pgF0yNYLI5Man4pr7V9m_SaiHBYswfF9u0MqWr9LFfYzd6arMssWc=w824-h440-rw",
           "frameColor": "#41f456"
         }
       ]
@@ -21,12 +21,12 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "com.amazing.horrer.clone.gangster.crime",
+      "playStoreID": "com.robot.game.crocodile.robot.simulator",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
         {
-          "url": "https://play-lh.googleusercontent.com/qFykAq2-V9x2liPaBX3-WwQ7lNs5-ZHjFql50dWdMfx4E98YsFtX3cmIbZgeHW1w6nw=w640-h620",
+          "url": "https://play-lh.googleusercontent.com/gp4CzAe6LGhFr3pgF0yNYLI5Man4pr7V9m_SaiHBYswfF9u0MqWr9LFfYzd6arMssWc=w824-h440-rw",
           "frameColor": "#5841f4"
         }
       ]
