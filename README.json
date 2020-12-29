@@ -21,12 +21,12 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "ironspider.stickman.gta.gtastickman.city.crim",
+      "playStoreID": "com.realrobot.dragon.robot.car.monster.truck.game",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
         {
-          "url": "https://play-lh.googleusercontent.com/gr_6Orsd_lFuednN48tBBq7L3ROBITB2SqlgtDtAtrFsBj6ycGJWQCLWFgeuwP_IYw=w840-h620",
+          "url": "https://play-lh.googleusercontent.com/KE_p665s_ctT0em86ayWeVSz3Q5zrdwoq8aTD_tnLHELSTed8iE_Q6G4jTUxUBfUgaA=w840-h620",
           "frameColor": "#5841f4"
         }
       ]
