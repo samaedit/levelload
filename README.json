@@ -9,9 +9,14 @@
       "price": "FREE",
       "images": [
         {
-          "url": "https://play-lh.googleusercontent.com/KE_p665s_ctT0em86ayWeVSz3Q5zrdwoq8aTD_tnLHELSTed8iE_Q6G4jTUxUBfUgaA=w840-h620",
+          "url": "https://play-lh.googleusercontent.com/71silkZK8h0Sk1xv4F5Oi3I7ws-T3AuM_wvYtZ-fri0r6RLeKtyiBWtDOuu4Khcm_OY=w720-h310",
           "frameColor": "#f44242"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/qOJySJ4-HcgGl2ctAlm62AgAVWPfKhwuoDBys7q4ZpWhOKE5bn7KZkk4aGNAYL0Qaxiz=w720-h310",
+          "frameColor": "#41f456"
         }
+      ]
     },
     {
       "id": 2,
